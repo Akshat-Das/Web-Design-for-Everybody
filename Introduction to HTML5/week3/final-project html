@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Project Coursera</title>
+</head>
+<body>
+	<header>
+		<h1><mark>Akshat Ajay Das</mark></h1>
+	</header>
+	<nav>
+		<a href="https://www.youtube.com/watch?v=jh66Pjtqr4k" target="_blank">One</a>
+		<a href="https://www.youtube.com/watch?v=8SgbcLtZaVY" target="_blank">Two</a>
+		<a href="https://www.youtube.com/watch?v=9rhadTURsrw" target="_blank">Three</a>
+		<a href="https://www.youtube.com/watch?v=XXYlFuWEuKI" target="_blank"><mark>BEST SONG EVER!!!!!!!</mark></a>
+	</nav>
+	<section>
+		<h2>Favorite Foods</h2>
+		<ul>
+			<li><mark>Apples</mark></li>
+			<li><mark>Pizza</mark></li>
+			<li><mark>Pasta</mark></li>
+			<li><mark>Chocolate Cake</mark></li>
+		</ul>
+	</section>
+	<section>
+		<h2>Achievements</h2>
+		<label>Progress in this course (100%)</label>
+		<progress value="100" max="100">100%</progress>
+		<br>
+		<label>Progress in the Specialization capstone (20%)</label>
+		<progress value="20" max="100">20%</progress>
+		<br>
+		<label>Progress in life goals <mark>(37%)</mark></label>
+		<progress value="37" max="100">37%</progress>
+	</section>
+	<section>
+		<h2>More About Me</h2>
+		<details open>
+			<summary>My Childhood</summary>
+			<p><mark>I grew up in Dubai.I had a beautiful childhood enjoyed every bit of it I have fond memories of it and I really miss my 2 best friends</mark></p>
+		</details>
+	</section>
+	<footer>
+		<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E logo" width="20%">This page was created by <mark>Akshat Ajay Das</mark> &amp; Colleen van Lent.To know more about web design,visit <a href="http://www.intro-webdesign.com.">Intro to Web Design</a>
+	</footer>
+</body>
+</html>
